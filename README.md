@@ -2,5 +2,5 @@
 - 👀 I’m interested in Python, HTML, node.js, and Batch
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me on discord valiant_82
-- ❇️ I am right now working on a discord bot: <a href="[https://www.w3schools.com](https://discord.com/api/oauth2/authorize?client_id=1108574367631290448&permissions=10328792886502&scope=bot)https://discord.com/api/oauth2/authorize?client_id=1108574367631290448&permissions=10328792886502&scope=bot">Invite Hollow!</a>
+- ❇️ I am right now working on a discord bot: https://shorturl.at/bvRT1
 - ⏺️ Yes I am a furry
