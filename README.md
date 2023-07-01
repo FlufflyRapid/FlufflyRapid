@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FlufflyRapid
-- 👀 I’m interested in Python, HTML, node.js, and Batch
+- ✳️ I’m interested in Python, HTML, node.js, and Batch
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me on discord valiant_82
 - ❇️ I am right now working on a discord bot: https://shorturl.at/bvRT1
