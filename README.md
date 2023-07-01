@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @FlufflyRapid
-- 👀 I’m interested in Python, HTML, and node.js
+- 👀 I’m interested in Python, HTML, node.js, and Batch
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me fglc721@gmail.com
+- 📫 How to reach me on discord valiant_82
+- ❇️ I am right now working on a discord bot: <a href="[https://www.w3schools.com](https://discord.com/api/oauth2/authorize?client_id=1108574367631290448&permissions=10328792886502&scope=bot)https://discord.com/api/oauth2/authorize?client_id=1108574367631290448&permissions=10328792886502&scope=bot">Invite Hollow!</a>
+- ⏺️ Yes I am a furry
